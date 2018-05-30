@@ -1,0 +1,18 @@
+{
+  "title": "OIFI SDK 中文文档",
+  "description": "",
+  "language": "en",
+  "plugins": [
+    "github",
+    "editlink"
+  ],
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/soundbus-technologies/docs"
+    },
+    "editlink": {
+      "base": "https://github.com/soundbus-technologies/docs/blob/master",
+      "label": "编辑本页"
+    }
+  }
+}
