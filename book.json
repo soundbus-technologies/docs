@@ -1,11 +1,19 @@
 {
   "title": "OIFI SDK 中文文档",
   "description": "",
-  "language": "en",
+  "language": "zh-hans",
   "plugins": [
+    "-lunr", "-search", "search-plus",
     "github",
-    "editlink"
+    "editlink",
+    "splitter",
+    "copy-code-button"
   ],
+  "links" : {
+    "sidebar" : {
+      "声动平台" : "https://www.sonicmoving.cn"
+    }
+  },
   "pluginsConfig": {
     "github": {
       "url": "https://github.com/soundbus-technologies/docs"
