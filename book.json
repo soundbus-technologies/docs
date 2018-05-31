@@ -2,12 +2,16 @@
   "title": "OIFI SDK 中文文档",
   "description": "",
   "language": "zh-hans",
+  "styles": {
+    "website": "styles/website.css"
+  },
   "plugins": [
     "-lunr", "-search", "search-plus",
     "github",
     "editlink",
     "splitter",
-    "copy-code-button"
+    "copy-code-button",
+    "anchor-navigation-ex"
   ],
   "links" : {
     "sidebar" : {
